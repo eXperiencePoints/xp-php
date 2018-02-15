@@ -20,7 +20,7 @@ XP-PHP is a class for making calls to eXperience Points' API using PHP.
 
     If you wish to make an SSL connection you can set an optional CA certificate or leave blank
     ```php
-    $xp->setSSL('/full/path/to/mycertificate.cert');
+    $xp->setSSL('/full/path/to/certificate.cert');
     ````
 
 3. Make calls to XPd as methods for your object. Examples:
