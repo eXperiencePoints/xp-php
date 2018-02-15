@@ -1,5 +1,5 @@
 # XP-PHP
-XP-PHP is a class for making calls to eXperience Points' API using PHP.
+XP-PHP is a class for making calls to eXperience Points' RPC API using PHP.
 # Getting Started
 1. Include xp-rpc.php into your PHP script:
 
