@@ -12,7 +12,7 @@ XP-PHP is a class for making calls to eXperience Points' API using PHP.
     $xp = new XPd('username','password');
     ```
 
-    Optionally, you can specify a host, port. Default is HTTP on localhost port 21892.
+    Optionally, you can specify a host and port. Default is HTTP on localhost port 21892.
 
     ```php
     $xp = new XPd('username','password','localhost','21892');
